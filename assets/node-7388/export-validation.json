@@ -1,0 +1,1448 @@
+{
+  "triangleCount": 75392,
+  "meshCount": 38,
+  "primitiveDrawCalls": 38,
+  "glbBytes": 1733276,
+  "materials": [
+    "MAT_ACRYLIC",
+    "MAT_CHROME",
+    "MAT_CIRCUIT",
+    "MAT_GRAPHITE",
+    "MAT_PCB",
+    "MAT_SMOKED_GLASS"
+  ],
+  "nodes": [
+    {
+      "name": "NODE_7388",
+      "parent": null,
+      "assembly": null,
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "FACE_AI",
+      "parent": "NODE_7388",
+      "assembly": "FACE_AI",
+      "translation": [
+        1.190000057220459,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0.7071066498756409,
+        0,
+        0.70710688829422
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "FACE_AI__ACRYLIC",
+      "parent": "FACE_AI",
+      "assembly": "FACE_AI",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1084,
+      "materials": [
+        "MAT_ACRYLIC"
+      ],
+      "bounds": {
+        "min": [
+          1.217499644986716,
+          -1.1150000095367432,
+          -1.1149999581870709
+        ],
+        "max": [
+          1.272500468818303,
+          1.1150000095367432,
+          1.1149999990414332
+        ]
+      }
+    },
+    {
+      "name": "FACE_AI__CHROME",
+      "parent": "FACE_AI",
+      "assembly": "FACE_AI",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 4436,
+      "materials": [
+        "MAT_CHROME"
+      ],
+      "bounds": {
+        "min": [
+          0.9679997419998128,
+          -1.125,
+          -1.1249999780203055
+        ],
+        "max": [
+          1.2500004584083424,
+          1.125,
+          1.1249999795059176
+        ]
+      }
+    },
+    {
+      "name": "FACE_AI__CIRCUIT",
+      "parent": "FACE_AI",
+      "assembly": "FACE_AI",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 752,
+      "materials": [
+        "MAT_CIRCUIT"
+      ],
+      "bounds": {
+        "min": [
+          1.0489997373217854,
+          -0.5949999094009399,
+          -0.9504999109542311
+        ],
+        "max": [
+          1.122000471092722,
+          0.9555000066757202,
+          0.9504999291418091
+        ]
+      }
+    },
+    {
+      "name": "FACE_AI__GRAPHITE",
+      "parent": "FACE_AI",
+      "assembly": "FACE_AI",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 3008,
+      "materials": [
+        "MAT_GRAPHITE"
+      ],
+      "bounds": {
+        "min": [
+          0.9849998265603783,
+          -1.0700000524520874,
+          -1.0700000451683773
+        ],
+        "max": [
+          1.2525003971098279,
+          1.0700000524520874,
+          1.0700000043140137
+        ]
+      }
+    },
+    {
+      "name": "FACE_AI__PCB",
+      "parent": "FACE_AI",
+      "assembly": "FACE_AI",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 864,
+      "materials": [
+        "MAT_PCB"
+      ],
+      "bounds": {
+        "min": [
+          1.0619996787652686,
+          -1.0199999809265137,
+          -1.019999991324578
+        ],
+        "max": [
+          1.1100004385036577,
+          1.0199999809265137,
+          1.019999914072691
+        ]
+      }
+    },
+    {
+      "name": "FACE_API",
+      "parent": "NODE_7388",
+      "assembly": "FACE_API",
+      "translation": [
+        0,
+        0,
+        -1.190000057220459
+      ],
+      "rotation": [
+        0.70710688829422,
+        0.7071066498756409,
+        0,
+        2.6692541510442425e-8
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "FACE_API__ACRYLIC",
+      "parent": "FACE_API",
+      "assembly": "FACE_API",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1084,
+      "materials": [
+        "MAT_ACRYLIC"
+      ],
+      "bounds": {
+        "min": [
+          -1.1150003210079111,
+          -1.1150002604684066,
+          -1.2725001348444065
+        ],
+        "max": [
+          1.1150003251602953,
+          1.115000256316021,
+          -1.217499975195482
+        ]
+      }
+    },
+    {
+      "name": "FACE_API__CHROME",
+      "parent": "FACE_API",
+      "assembly": "FACE_API",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 3988,
+      "materials": [
+        "MAT_CHROME"
+      ],
+      "bounds": {
+        "min": [
+          -1.1250003141487985,
+          -1.125000249607905,
+          -1.250000172179919
+        ],
+        "max": [
+          1.1250003142997942,
+          1.1250002494569094,
+          -0.9730000696178589
+        ]
+      }
+    },
+    {
+      "name": "FACE_API__CIRCUIT",
+      "parent": "FACE_API",
+      "assembly": "FACE_API",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 752,
+      "materials": [
+        "MAT_CIRCUIT"
+      ],
+      "bounds": {
+        "min": [
+          -0.5950003653582501,
+          -0.9504999583254321,
+          -1.122000059269917
+        ],
+        "max": [
+          0.9555002598704881,
+          0.9505001634634243,
+          -1.048999948437946
+        ]
+      }
+    },
+    {
+      "name": "FACE_API__GRAPHITE",
+      "parent": "FACE_API",
+      "assembly": "FACE_API",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 3008,
+      "materials": [
+        "MAT_GRAPHITE"
+      ],
+      "bounds": {
+        "min": [
+          -1.0700003623577354,
+          -1.0700002948826002,
+          -1.2525001132247962
+        ],
+        "max": [
+          1.0700003582053512,
+          1.070000299034986,
+          -0.9875000987793325
+        ]
+      }
+    },
+    {
+      "name": "FACE_API__PCB",
+      "parent": "FACE_API",
+      "assembly": "FACE_API",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 864,
+      "materials": [
+        "MAT_PCB"
+      ],
+      "bounds": {
+        "min": [
+          -1.0200002848817018,
+          -1.020000215418597,
+          -1.1100001385042195
+        ],
+        "max": [
+          1.0200002770299206,
+          1.0200002232703809,
+          -1.061999985884226
+        ]
+      }
+    },
+    {
+      "name": "FACE_DATA",
+      "parent": "NODE_7388",
+      "assembly": "FACE_DATA",
+      "translation": [
+        -1.190000057220459,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        -0.7071066498756409,
+        0,
+        0.70710688829422
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "FACE_DATA__ACRYLIC",
+      "parent": "FACE_DATA",
+      "assembly": "FACE_DATA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1084,
+      "materials": [
+        "MAT_ACRYLIC"
+      ],
+      "bounds": {
+        "min": [
+          -1.272500468818303,
+          -1.1150000095367432,
+          -1.1149999581870709
+        ],
+        "max": [
+          -1.217499644986716,
+          1.1150000095367432,
+          1.1149999990414332
+        ]
+      }
+    },
+    {
+      "name": "FACE_DATA__CHROME",
+      "parent": "FACE_DATA",
+      "assembly": "FACE_DATA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 3236,
+      "materials": [
+        "MAT_CHROME"
+      ],
+      "bounds": {
+        "min": [
+          -1.2500004584083424,
+          -1.125,
+          -1.1249999780203055
+        ],
+        "max": [
+          -1.0349997367364963,
+          1.125,
+          1.1249999795059176
+        ]
+      }
+    },
+    {
+      "name": "FACE_DATA__CIRCUIT",
+      "parent": "FACE_DATA",
+      "assembly": "FACE_DATA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1316,
+      "materials": [
+        "MAT_CIRCUIT"
+      ],
+      "bounds": {
+        "min": [
+          -1.1220003518834365,
+          -0.5949999094009399,
+          -0.9505000301635609
+        ],
+        "max": [
+          -0.9829997424087862,
+          0.9555000066757202,
+          0.9504998099324794
+        ]
+      }
+    },
+    {
+      "name": "FACE_DATA__GRAPHITE",
+      "parent": "FACE_DATA",
+      "assembly": "FACE_DATA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 2580,
+      "materials": [
+        "MAT_GRAPHITE"
+      ],
+      "bounds": {
+        "min": [
+          -1.2525003971098279,
+          -1.0700000524520874,
+          -1.0700000451683773
+        ],
+        "max": [
+          -0.9924998366070805,
+          1.0700000524520874,
+          1.0700000043140137
+        ]
+      }
+    },
+    {
+      "name": "FACE_DATA__PCB",
+      "parent": "FACE_DATA",
+      "assembly": "FACE_DATA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 864,
+      "materials": [
+        "MAT_PCB"
+      ],
+      "bounds": {
+        "min": [
+          -1.1100004385036577,
+          -1.0199999809265137,
+          -1.019999991324578
+        ],
+        "max": [
+          -1.0619996787652686,
+          1.0199999809265137,
+          1.019999914072691
+        ]
+      }
+    },
+    {
+      "name": "FACE_INFRA",
+      "parent": "NODE_7388",
+      "assembly": "FACE_INFRA",
+      "translation": [
+        0,
+        -1.190000057220459,
+        0
+      ],
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "FACE_INFRA__ACRYLIC",
+      "parent": "FACE_INFRA",
+      "assembly": "FACE_INFRA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1084,
+      "materials": [
+        "MAT_ACRYLIC"
+      ],
+      "bounds": {
+        "min": [
+          -1.1150000095367432,
+          -1.2725002203185738,
+          -1.1150001693566045
+        ],
+        "max": [
+          1.1150000095367432,
+          -1.2174999120310628,
+          1.1150001545771304
+        ]
+      }
+    },
+    {
+      "name": "FACE_INFRA__CHROME",
+      "parent": "FACE_INFRA",
+      "assembly": "FACE_INFRA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 4364,
+      "materials": [
+        "MAT_CHROME"
+      ],
+      "bounds": {
+        "min": [
+          -1.125,
+          -1.2500002635636567,
+          -1.1250001576701179
+        ],
+        "max": [
+          1.125,
+          -0.95699990360756,
+          1.1250001571326829
+        ]
+      }
+    },
+    {
+      "name": "FACE_INFRA__CIRCUIT",
+      "parent": "FACE_INFRA",
+      "assembly": "FACE_INFRA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 752,
+      "materials": [
+        "MAT_CIRCUIT"
+      ],
+      "bounds": {
+        "min": [
+          -0.9505000114440918,
+          -1.1220002021677036,
+          -0.5949999713403562
+        ],
+        "max": [
+          0.9504998922348022,
+          -1.048999926310501,
+          0.9555001451325221
+        ]
+      }
+    },
+    {
+      "name": "FACE_INFRA__GRAPHITE",
+      "parent": "FACE_INFRA",
+      "assembly": "FACE_INFRA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 2152,
+      "materials": [
+        "MAT_GRAPHITE"
+      ],
+      "bounds": {
+        "min": [
+          -1.0700000524520874,
+          -1.2525002070850897,
+          -1.0700001920509463
+        ],
+        "max": [
+          1.0700000524520874,
+          -0.9749999316210035,
+          1.0700002068304209
+        ]
+      }
+    },
+    {
+      "name": "FACE_INFRA__PCB",
+      "parent": "FACE_INFRA",
+      "assembly": "FACE_INFRA",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1292,
+      "materials": [
+        "MAT_PCB"
+      ],
+      "bounds": {
+        "min": [
+          -1.0199999809265137,
+          -1.1100001845554208,
+          -1.0200001064176836
+        ],
+        "max": [
+          1.0199999809265137,
+          -1.000000166663312,
+          1.0200001343643263
+        ]
+      }
+    },
+    {
+      "name": "FACE_SYSTEM",
+      "parent": "NODE_7388",
+      "assembly": "FACE_SYSTEM",
+      "translation": [
+        0,
+        1.190000057220459,
+        0
+      ],
+      "rotation": [
+        -0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "FACE_SYSTEM__ACRYLIC",
+      "parent": "FACE_SYSTEM",
+      "assembly": "FACE_SYSTEM",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1084,
+      "materials": [
+        "MAT_ACRYLIC"
+      ],
+      "bounds": {
+        "min": [
+          -1.1150000095367432,
+          1.2174999120310628,
+          -1.1150001693566045
+        ],
+        "max": [
+          1.1150000095367432,
+          1.2725002203185738,
+          1.1150001545771304
+        ]
+      }
+    },
+    {
+      "name": "FACE_SYSTEM__CHROME",
+      "parent": "FACE_SYSTEM",
+      "assembly": "FACE_SYSTEM",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 3536,
+      "materials": [
+        "MAT_CHROME"
+      ],
+      "bounds": {
+        "min": [
+          -1.125,
+          1.0349999177764244,
+          -1.1250001576701179
+        ],
+        "max": [
+          1.125,
+          1.250000203959004,
+          1.1250001571326829
+        ]
+      }
+    },
+    {
+      "name": "FACE_SYSTEM__CIRCUIT",
+      "parent": "FACE_SYSTEM",
+      "assembly": "FACE_SYSTEM",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 752,
+      "materials": [
+        "MAT_CIRCUIT"
+      ],
+      "bounds": {
+        "min": [
+          -0.9505000114440918,
+          1.0489999795672762,
+          -0.9555001255161354
+        ],
+        "max": [
+          0.9504998922348022,
+          1.1219999620557568,
+          0.5950000078859832
+        ]
+      }
+    },
+    {
+      "name": "FACE_SYSTEM__GRAPHITE",
+      "parent": "FACE_SYSTEM",
+      "assembly": "FACE_SYSTEM",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 2580,
+      "materials": [
+        "MAT_GRAPHITE"
+      ],
+      "bounds": {
+        "min": [
+          -1.0700000524520874,
+          1.0025001241983476,
+          -1.0700001920509463
+        ],
+        "max": [
+          1.0700000524520874,
+          1.2525001437551462,
+          1.0700002068304209
+        ]
+      }
+    },
+    {
+      "name": "FACE_SYSTEM__PCB",
+      "parent": "FACE_SYSTEM",
+      "assembly": "FACE_SYSTEM",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 864,
+      "materials": [
+        "MAT_PCB"
+      ],
+      "bounds": {
+        "min": [
+          -1.0199999809265137,
+          1.06199989764732,
+          -1.0200001064176836
+        ],
+        "max": [
+          1.0199999809265137,
+          1.1100001845554208,
+          1.0200001343643263
+        ]
+      }
+    },
+    {
+      "name": "FACE_WEB",
+      "parent": "NODE_7388",
+      "assembly": "FACE_WEB",
+      "translation": [
+        0,
+        0,
+        1.190000057220459
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "FACE_WEB__ACRYLIC",
+      "parent": "FACE_WEB",
+      "assembly": "FACE_WEB",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1084,
+      "materials": [
+        "MAT_ACRYLIC"
+      ],
+      "bounds": {
+        "min": [
+          -1.1150000095367432,
+          -1.1150000095367432,
+          1.2175000570714474
+        ],
+        "max": [
+          1.1150000095367432,
+          1.1150000095367432,
+          1.2725000604987144
+        ]
+      }
+    },
+    {
+      "name": "FACE_WEB__CHROME",
+      "parent": "FACE_WEB",
+      "assembly": "FACE_WEB",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 4100,
+      "materials": [
+        "MAT_CHROME"
+      ],
+      "bounds": {
+        "min": [
+          -1.125,
+          -1.125,
+          1.035000056028366
+        ],
+        "max": [
+          1.125,
+          1.125,
+          1.2500001043081284
+        ]
+      }
+    },
+    {
+      "name": "FACE_WEB__CIRCUIT",
+      "parent": "FACE_WEB",
+      "assembly": "FACE_WEB",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 752,
+      "materials": [
+        "MAT_CIRCUIT"
+      ],
+      "bounds": {
+        "min": [
+          -0.9505000114440918,
+          -0.5950000286102295,
+          1.0489999651908875
+        ],
+        "max": [
+          0.9504998922348022,
+          0.9555000066757202,
+          1.1220000609755516
+        ]
+      }
+    },
+    {
+      "name": "FACE_WEB__GRAPHITE",
+      "parent": "FACE_WEB",
+      "assembly": "FACE_WEB",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 3016,
+      "materials": [
+        "MAT_GRAPHITE"
+      ],
+      "bounds": {
+        "min": [
+          -1.0700000524520874,
+          -1.0700000524520874,
+          1.031500056385994
+        ],
+        "max": [
+          1.0700000524520874,
+          1.0700000524520874,
+          1.252500046044588
+        ]
+      }
+    },
+    {
+      "name": "FACE_WEB__PCB",
+      "parent": "FACE_WEB",
+      "assembly": "FACE_WEB",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 864,
+      "materials": [
+        "MAT_PCB"
+      ],
+      "bounds": {
+        "min": [
+          -1.0199999809265137,
+          -1.0199999809265137,
+          1.0620000511407852
+        ],
+        "max": [
+          1.0199999809265137,
+          1.0199999809265137,
+          1.1100000590085983
+        ]
+      }
+    },
+    {
+      "name": "FACE_WEB__SMOKED_GLASS",
+      "parent": "FACE_WEB",
+      "assembly": "FACE_WEB",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 588,
+      "materials": [
+        "MAT_SMOKED_GLASS"
+      ],
+      "bounds": {
+        "min": [
+          -0.8299999833106995,
+          -0.47999998927116394,
+          1.070000059902668
+        ],
+        "max": [
+          0.8299999833106995,
+          0.47999998927116394,
+          1.100000061094761
+        ]
+      }
+    },
+    {
+      "name": "WEB_SCREEN_ANCHOR",
+      "parent": "FACE_WEB",
+      "assembly": "FACE_WEB",
+      "translation": [
+        0,
+        0,
+        -0.07299995422363281
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "INTERNAL_FRAME",
+      "parent": "NODE_7388",
+      "assembly": "INTERNAL_FRAME",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "INTERNAL_FRAME__CHROME",
+      "parent": "INTERNAL_FRAME",
+      "assembly": "INTERNAL_FRAME",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 2312,
+      "materials": [
+        "MAT_CHROME"
+      ],
+      "bounds": {
+        "min": [
+          -0.8374999761581421,
+          -0.8374999761581421,
+          -0.8500000238418579
+        ],
+        "max": [
+          0.8374999761581421,
+          0.8375000953674316,
+          0.8500000834465027
+        ]
+      }
+    },
+    {
+      "name": "INTERNAL_FRAME__CIRCUIT",
+      "parent": "INTERNAL_FRAME",
+      "assembly": "INTERNAL_FRAME",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1128,
+      "materials": [
+        "MAT_CIRCUIT"
+      ],
+      "bounds": {
+        "min": [
+          -0.89000004529953,
+          -0.9550000429153442,
+          -0.9550000429153442
+        ],
+        "max": [
+          1.0199999809265137,
+          0.9550000429153442,
+          0.9550000429153442
+        ]
+      }
+    },
+    {
+      "name": "INTERNAL_FRAME__GRAPHITE",
+      "parent": "INTERNAL_FRAME",
+      "assembly": "INTERNAL_FRAME",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 2568,
+      "materials": [
+        "MAT_GRAPHITE"
+      ],
+      "bounds": {
+        "min": [
+          -0.9700000286102295,
+          -0.9700000286102295,
+          -0.9700000286102295
+        ],
+        "max": [
+          0.9700000286102295,
+          0.9700000286102295,
+          0.9700000286102295
+        ]
+      }
+    },
+    {
+      "name": "SYS_CORE",
+      "parent": "NODE_7388",
+      "assembly": "SYS_CORE",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 0,
+      "materials": [],
+      "bounds": null
+    },
+    {
+      "name": "SYS_CORE__CHROME",
+      "parent": "SYS_CORE",
+      "assembly": "SYS_CORE",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 8112,
+      "materials": [
+        "MAT_CHROME"
+      ],
+      "bounds": {
+        "min": [
+          -0.6588000059127808,
+          -0.6588000059127808,
+          0.08662500232458115
+        ],
+        "max": [
+          0.6588000059127808,
+          0.6588000059127808,
+          0.40012499690055847
+        ]
+      }
+    },
+    {
+      "name": "SYS_CORE__CIRCUIT",
+      "parent": "SYS_CORE",
+      "assembly": "SYS_CORE",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 864,
+      "materials": [
+        "MAT_CIRCUIT"
+      ],
+      "bounds": {
+        "min": [
+          -0.49410000443458557,
+          -0.49410000443458557,
+          0.32010000944137573
+        ],
+        "max": [
+          0.49410000443458557,
+          0.49410000443458557,
+          0.3497999906539917
+        ]
+      }
+    },
+    {
+      "name": "SYS_CORE__GRAPHITE",
+      "parent": "SYS_CORE",
+      "assembly": "SYS_CORE",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 1860,
+      "materials": [
+        "MAT_GRAPHITE"
+      ],
+      "bounds": {
+        "min": [
+          -0.4757999777793884,
+          -0.4757999777793884,
+          -0.23512496054172516
+        ],
+        "max": [
+          0.4757999777793884,
+          0.4757999777793884,
+          0.39434999227523804
+        ]
+      }
+    },
+    {
+      "name": "SYS_CORE__PCB",
+      "parent": "SYS_CORE",
+      "assembly": "SYS_CORE",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "triangles": 764,
+      "materials": [
+        "MAT_PCB"
+      ],
+      "bounds": {
+        "min": [
+          -0.6710000038146973,
+          -0.6710000038146973,
+          -0.0742500051856041
+        ],
+        "max": [
+          0.6710000038146973,
+          0.6710000038146973,
+          0.0742500051856041
+        ]
+      }
+    }
+  ],
+  "checks": {
+    "sixAxesAndPivots": true,
+    "canonicalAnchor": true,
+    "unitScales": true,
+    "normals": true,
+    "finiteBounds": true,
+    "rigidTranslationAndReversal": true,
+    "budgets": true
+  },
+  "anchor": {
+    "worldCenter": [
+      0,
+      0,
+      1.1170001029968262
+    ],
+    "worldNormal": [
+      0,
+      0,
+      1
+    ],
+    "usable_width": 1.6,
+    "usable_height": 0.9,
+    "plane": "local XY; normal local +Z",
+    "corner_radius": 0.055,
+    "purpose": "DOM handoff reference; follows FACE_WEB rigidly"
+  }
+}

@@ -1,0 +1,1388 @@
+{
+  "states": {
+    "start": {
+      "progress": {
+        "explode": 0,
+        "focus": 0,
+        "handoff": 0,
+        "calls": 38,
+        "triangles": 75392,
+        "screen": [
+          [
+            861.5816554027048,
+            478.80727523139075
+          ],
+          [
+            984.9807240949356,
+            568.2873277165033
+          ]
+        ]
+      },
+      "overflow": 0,
+      "pins": 1,
+      "identity": {
+        "x": 104.5,
+        "y": 277,
+        "w": 510.71875,
+        "h": 446,
+        "opacity": "1",
+        "inert": false
+      },
+      "stage": {
+        "x": 615.21875,
+        "y": 120,
+        "w": 705.265625,
+        "h": 760,
+        "opacity": "1",
+        "inert": false
+      },
+      "project": {
+        "x": 212.5,
+        "y": 197.75,
+        "w": 1000,
+        "h": 562.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "projectGroup": {
+        "x": 212.5,
+        "y": 161.75,
+        "w": 1000,
+        "h": 716.5,
+        "opacity": "0",
+        "inert": true
+      },
+      "navbar": {
+        "x": 328.5,
+        "y": 20,
+        "w": 768,
+        "h": 56,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbarHit": true,
+      "canvasCount": 1
+    },
+    "centered": {
+      "progress": {
+        "explode": 0,
+        "focus": 0,
+        "handoff": 0,
+        "calls": 38,
+        "triangles": 75392,
+        "screen": [
+          [
+            600.9776082632826,
+            476.26411910315977
+          ],
+          [
+            739.1845502420506,
+            576.4817721376132
+          ]
+        ]
+      },
+      "overflow": 0,
+      "pins": 1,
+      "identity": {
+        "x": 108.33038330078125,
+        "y": 252.34500122070312,
+        "w": 503.0579833984375,
+        "h": 439.3100280761719,
+        "opacity": "0",
+        "inert": true
+      },
+      "stage": {
+        "x": 325.05120849609375,
+        "y": 74.39999389648438,
+        "w": 789.8975219726562,
+        "h": 851.199951171875,
+        "opacity": "1",
+        "inert": false
+      },
+      "project": {
+        "x": 212.5,
+        "y": 197.75,
+        "w": 1000,
+        "h": 562.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "projectGroup": {
+        "x": 212.5,
+        "y": 161.75,
+        "w": 1000,
+        "h": 716.5,
+        "opacity": "0",
+        "inert": true
+      },
+      "navbar": {
+        "x": 328.5,
+        "y": 20,
+        "w": 768,
+        "h": 56,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbarHit": true,
+      "canvasCount": 1
+    },
+    "exploded": {
+      "progress": {
+        "explode": 1,
+        "focus": 0,
+        "handoff": 0,
+        "calls": 38,
+        "triangles": 75392,
+        "screen": [
+          [
+            547.6033298135734,
+            504.5967676684102
+          ],
+          [
+            685.8102717923414,
+            604.8144207028637
+          ]
+        ]
+      },
+      "overflow": 0,
+      "pins": 1,
+      "identity": {
+        "x": 108.33038330078125,
+        "y": 252.34500122070312,
+        "w": 503.0579833984375,
+        "h": 439.3100280761719,
+        "opacity": "0",
+        "inert": true
+      },
+      "stage": {
+        "x": 325.05120849609375,
+        "y": 74.39999389648438,
+        "w": 789.8975219726562,
+        "h": 851.199951171875,
+        "opacity": "1",
+        "inert": false
+      },
+      "project": {
+        "x": 212.5,
+        "y": 197.75,
+        "w": 1000,
+        "h": 562.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "projectGroup": {
+        "x": 212.5,
+        "y": 161.75,
+        "w": 1000,
+        "h": 716.5,
+        "opacity": "0",
+        "inert": true
+      },
+      "navbar": {
+        "x": 328.5,
+        "y": 20,
+        "w": 768,
+        "h": 56,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbarHit": true,
+      "canvasCount": 1
+    },
+    "web-focus": {
+      "progress": {
+        "explode": 1,
+        "focus": 0.334836,
+        "handoff": 0,
+        "calls": 38,
+        "triangles": 75392,
+        "screen": [
+          [
+            441.6928766681781,
+            395.3009926970859
+          ],
+          [
+            856.1537961371736,
+            663.2120865617902
+          ]
+        ]
+      },
+      "overflow": 0,
+      "pins": 1,
+      "identity": {
+        "x": 108.33038330078125,
+        "y": 252.34500122070312,
+        "w": 503.0579833984375,
+        "h": 439.3100280761719,
+        "opacity": "0",
+        "inert": true
+      },
+      "stage": {
+        "x": 325.05120849609375,
+        "y": 74.39999389648438,
+        "w": 789.8975219726562,
+        "h": 851.199951171875,
+        "opacity": "1",
+        "inert": false
+      },
+      "project": {
+        "x": 212.5,
+        "y": 197.75,
+        "w": 1000,
+        "h": 562.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "projectGroup": {
+        "x": 212.5,
+        "y": 161.75,
+        "w": 1000,
+        "h": 716.5,
+        "opacity": "0",
+        "inert": true
+      },
+      "navbar": {
+        "x": 328.5,
+        "y": 20,
+        "w": 768,
+        "h": 56,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbarHit": true,
+      "canvasCount": 1
+    },
+    "handoff": {
+      "progress": {
+        "explode": 1,
+        "focus": 1,
+        "handoff": 0.500003,
+        "calls": 33,
+        "triangles": 65704,
+        "screen": [
+          [
+            212.50000000000003,
+            197.74998462922917
+          ],
+          [
+            1212.5,
+            760.2500132348849
+          ]
+        ]
+      },
+      "overflow": 0,
+      "pins": 1,
+      "identity": {
+        "x": 108.33038330078125,
+        "y": 252.34500122070312,
+        "w": 503.0579833984375,
+        "h": 439.3100280761719,
+        "opacity": "0",
+        "inert": true
+      },
+      "stage": {
+        "x": 325.05120849609375,
+        "y": 74.39999389648438,
+        "w": 789.8975219726562,
+        "h": 851.199951171875,
+        "opacity": "1",
+        "inert": false
+      },
+      "project": {
+        "x": 212.5,
+        "y": 197.75,
+        "w": 1000,
+        "h": 562.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "projectGroup": {
+        "x": 212.5,
+        "y": 161.75,
+        "w": 1000,
+        "h": 716.5,
+        "opacity": "0.5",
+        "inert": true
+      },
+      "navbar": {
+        "x": 328.5,
+        "y": 20,
+        "w": 768,
+        "h": 56,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbarHit": true,
+      "canvasCount": 1
+    },
+    "project": {
+      "progress": {
+        "explode": 1,
+        "focus": 1,
+        "handoff": 1,
+        "calls": 33,
+        "triangles": 65704,
+        "screen": [
+          [
+            212.50000000000003,
+            197.74998462922917
+          ],
+          [
+            1212.5,
+            760.2500132348849
+          ]
+        ]
+      },
+      "overflow": 0,
+      "pins": 1,
+      "identity": {
+        "x": 108.33038330078125,
+        "y": 252.34500122070312,
+        "w": 503.0579833984375,
+        "h": 439.3100280761719,
+        "opacity": "0",
+        "inert": true
+      },
+      "stage": {
+        "x": 325.05120849609375,
+        "y": 74.39999389648438,
+        "w": 789.8975219726562,
+        "h": 851.199951171875,
+        "opacity": "1",
+        "inert": false
+      },
+      "project": {
+        "x": 212.5,
+        "y": 197.75,
+        "w": 1000,
+        "h": 562.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "projectGroup": {
+        "x": 212.5,
+        "y": 161.75,
+        "w": 1000,
+        "h": 716.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbar": {
+        "x": 328.5,
+        "y": 20,
+        "w": 768,
+        "h": 56,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbarHit": true,
+      "canvasCount": 1
+    },
+    "reverse-exploded": {
+      "progress": {
+        "explode": 1,
+        "focus": 0,
+        "handoff": 0,
+        "calls": 38,
+        "triangles": 75392,
+        "screen": [
+          [
+            547.6033298135734,
+            504.5967676684102
+          ],
+          [
+            685.8102717923414,
+            604.8144207028637
+          ]
+        ]
+      },
+      "overflow": 0,
+      "pins": 1,
+      "identity": {
+        "x": 108.33038330078125,
+        "y": 252.34500122070312,
+        "w": 503.0579833984375,
+        "h": 439.3100280761719,
+        "opacity": "0",
+        "inert": true
+      },
+      "stage": {
+        "x": 325.05120849609375,
+        "y": 74.39999389648438,
+        "w": 789.8975219726562,
+        "h": 851.199951171875,
+        "opacity": "1",
+        "inert": false
+      },
+      "project": {
+        "x": 212.5,
+        "y": 197.75,
+        "w": 1000,
+        "h": 562.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "projectGroup": {
+        "x": 212.5,
+        "y": 161.75,
+        "w": 1000,
+        "h": 716.5,
+        "opacity": "0",
+        "inert": true
+      },
+      "navbar": {
+        "x": 328.5,
+        "y": 20,
+        "w": 768,
+        "h": 56,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbarHit": true,
+      "canvasCount": 1
+    },
+    "reverse-centered": {
+      "progress": {
+        "explode": 0,
+        "focus": 0,
+        "handoff": 0,
+        "calls": 38,
+        "triangles": 75392,
+        "screen": [
+          [
+            600.9776082632826,
+            476.26411910315977
+          ],
+          [
+            739.1845502420506,
+            576.4817721376132
+          ]
+        ]
+      },
+      "overflow": 0,
+      "pins": 1,
+      "identity": {
+        "x": 108.33038330078125,
+        "y": 252.34500122070312,
+        "w": 503.0579833984375,
+        "h": 439.3100280761719,
+        "opacity": "0",
+        "inert": true
+      },
+      "stage": {
+        "x": 325.05120849609375,
+        "y": 74.39999389648438,
+        "w": 789.8975219726562,
+        "h": 851.199951171875,
+        "opacity": "1",
+        "inert": false
+      },
+      "project": {
+        "x": 212.5,
+        "y": 197.75,
+        "w": 1000,
+        "h": 562.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "projectGroup": {
+        "x": 212.5,
+        "y": 161.75,
+        "w": 1000,
+        "h": 716.5,
+        "opacity": "0",
+        "inert": true
+      },
+      "navbar": {
+        "x": 328.5,
+        "y": 20,
+        "w": 768,
+        "h": 56,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbarHit": true,
+      "canvasCount": 1
+    },
+    "reverse-start": {
+      "progress": {
+        "explode": 0,
+        "focus": 0,
+        "handoff": 0,
+        "calls": 38,
+        "triangles": 75392,
+        "screen": [
+          [
+            861.5816554027048,
+            478.80727523139075
+          ],
+          [
+            984.9807240949356,
+            568.2873277165033
+          ]
+        ]
+      },
+      "overflow": 0,
+      "pins": 1,
+      "identity": {
+        "x": 104.5,
+        "y": 277,
+        "w": 510.71875,
+        "h": 446,
+        "opacity": "1",
+        "inert": false
+      },
+      "stage": {
+        "x": 615.21875,
+        "y": 120,
+        "w": 705.265625,
+        "h": 760,
+        "opacity": "1",
+        "inert": false
+      },
+      "project": {
+        "x": 212.5,
+        "y": 197.75,
+        "w": 1000,
+        "h": 562.5,
+        "opacity": "1",
+        "inert": false
+      },
+      "projectGroup": {
+        "x": 212.5,
+        "y": 161.75,
+        "w": 1000,
+        "h": 716.5,
+        "opacity": "0",
+        "inert": true
+      },
+      "navbar": {
+        "x": 328.5,
+        "y": 20,
+        "w": 768,
+        "h": 56,
+        "opacity": "1",
+        "inert": false
+      },
+      "navbarHit": true,
+      "canvasCount": 1
+    }
+  },
+  "widths": [
+    {
+      "width": 1280,
+      "centered": {
+        "progress": {
+          "explode": 0,
+          "focus": 0,
+          "handoff": 0,
+          "calls": 38,
+          "triangles": 75392,
+          "screen": [
+            [
+              521.4852354172328,
+              476.26411910315977
+            ],
+            [
+              659.6921977564284,
+              576.4817721376132
+            ]
+          ]
+        },
+        "overflow": 0,
+        "pins": 1,
+        "identity": {
+          "x": 35.783050537109375,
+          "y": 252.34500122070312,
+          "w": 496.8401184082031,
+          "h": 439.3100280761719,
+          "opacity": "0",
+          "inert": true
+        },
+        "stage": {
+          "x": 249.916259765625,
+          "y": 74.39999389648438,
+          "w": 780.16748046875,
+          "h": 851.199951171875,
+          "opacity": "1",
+          "inert": false
+        },
+        "project": {
+          "x": 184.5,
+          "y": 227,
+          "w": 896,
+          "h": 504,
+          "opacity": "1",
+          "inert": false
+        },
+        "projectGroup": {
+          "x": 184.5,
+          "y": 191,
+          "w": 896,
+          "h": 658,
+          "opacity": "0",
+          "inert": true
+        },
+        "navbar": {
+          "x": 248.5,
+          "y": 20,
+          "w": 768,
+          "h": 56,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbarHit": true,
+        "canvasCount": 1
+      },
+      "final": {
+        "progress": {
+          "explode": 1,
+          "focus": 1,
+          "handoff": 1,
+          "calls": 32,
+          "triangles": 64988,
+          "screen": [
+            [
+              184.50000000000003,
+              227.00002633464197
+            ],
+            [
+              1080.5,
+              730.9999777168359
+            ]
+          ]
+        },
+        "overflow": 0,
+        "pins": 1,
+        "identity": {
+          "x": 35.783050537109375,
+          "y": 252.34500122070312,
+          "w": 496.8401184082031,
+          "h": 439.3100280761719,
+          "opacity": "0",
+          "inert": true
+        },
+        "stage": {
+          "x": 249.916259765625,
+          "y": 74.39999389648438,
+          "w": 780.16748046875,
+          "h": 851.199951171875,
+          "opacity": "1",
+          "inert": false
+        },
+        "project": {
+          "x": 184.5,
+          "y": 227,
+          "w": 896,
+          "h": 504,
+          "opacity": "1",
+          "inert": false
+        },
+        "projectGroup": {
+          "x": 184.5,
+          "y": 191,
+          "w": 896,
+          "h": 658,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbar": {
+          "x": 248.5,
+          "y": 20,
+          "w": 768,
+          "h": 56,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbarHit": true,
+        "canvasCount": 1
+      },
+      "alignmentErrorPx": 0.00002633464197288049
+    },
+    {
+      "width": 1440,
+      "centered": {
+        "progress": {
+          "explode": 0,
+          "focus": 0,
+          "handoff": 0,
+          "calls": 38,
+          "triangles": 75392,
+          "screen": [
+            [
+              600.9776082632826,
+              476.26411910315977
+            ],
+            [
+              739.1845502420506,
+              576.4817721376132
+            ]
+          ]
+        },
+        "overflow": 0,
+        "pins": 1,
+        "identity": {
+          "x": 108.33038330078125,
+          "y": 252.34500122070312,
+          "w": 503.0579833984375,
+          "h": 439.3100280761719,
+          "opacity": "0",
+          "inert": true
+        },
+        "stage": {
+          "x": 325.05120849609375,
+          "y": 74.39999389648438,
+          "w": 789.8975219726562,
+          "h": 851.199951171875,
+          "opacity": "1",
+          "inert": false
+        },
+        "project": {
+          "x": 212.5,
+          "y": 197.75,
+          "w": 1000,
+          "h": 562.5,
+          "opacity": "1",
+          "inert": false
+        },
+        "projectGroup": {
+          "x": 212.5,
+          "y": 161.75,
+          "w": 1000,
+          "h": 716.5,
+          "opacity": "0",
+          "inert": true
+        },
+        "navbar": {
+          "x": 328.5,
+          "y": 20,
+          "w": 768,
+          "h": 56,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbarHit": true,
+        "canvasCount": 1
+      },
+      "final": {
+        "progress": {
+          "explode": 1,
+          "focus": 1,
+          "handoff": 1,
+          "calls": 32,
+          "triangles": 64988,
+          "screen": [
+            [
+              212.50000000000003,
+              197.74998462922917
+            ],
+            [
+              1212.5,
+              760.2500132348849
+            ]
+          ]
+        },
+        "overflow": 0,
+        "pins": 1,
+        "identity": {
+          "x": 108.33038330078125,
+          "y": 252.34500122070312,
+          "w": 503.0579833984375,
+          "h": 439.3100280761719,
+          "opacity": "0",
+          "inert": true
+        },
+        "stage": {
+          "x": 325.05120849609375,
+          "y": 74.39999389648438,
+          "w": 789.8975219726562,
+          "h": 851.199951171875,
+          "opacity": "1",
+          "inert": false
+        },
+        "project": {
+          "x": 212.5,
+          "y": 197.75,
+          "w": 1000,
+          "h": 562.5,
+          "opacity": "1",
+          "inert": false
+        },
+        "projectGroup": {
+          "x": 212.5,
+          "y": 161.75,
+          "w": 1000,
+          "h": 716.5,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbar": {
+          "x": 328.5,
+          "y": 20,
+          "w": 768,
+          "h": 56,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbarHit": true,
+        "canvasCount": 1
+      },
+      "alignmentErrorPx": 0.000015370770825029467
+    },
+    {
+      "width": 1728,
+      "centered": {
+        "progress": {
+          "explode": 0,
+          "focus": 0,
+          "handoff": 0,
+          "calls": 38,
+          "triangles": 75392,
+          "screen": [
+            [
+              744.9776082632826,
+              476.26411910315977
+            ],
+            [
+              883.1845502420506,
+              576.4817721376132
+            ]
+          ]
+        },
+        "overflow": 0,
+        "pins": 1,
+        "identity": {
+          "x": 252.33038330078125,
+          "y": 252.34500122070312,
+          "w": 503.0579833984375,
+          "h": 439.3100280761719,
+          "opacity": "0",
+          "inert": true
+        },
+        "stage": {
+          "x": 469.05120849609375,
+          "y": 74.39999389648438,
+          "w": 789.8975219726562,
+          "h": 851.199951171875,
+          "opacity": "1",
+          "inert": false
+        },
+        "project": {
+          "x": 356.5,
+          "y": 197.75,
+          "w": 1000,
+          "h": 562.5,
+          "opacity": "1",
+          "inert": false
+        },
+        "projectGroup": {
+          "x": 356.5,
+          "y": 161.75,
+          "w": 1000,
+          "h": 716.5,
+          "opacity": "0",
+          "inert": true
+        },
+        "navbar": {
+          "x": 472.5,
+          "y": 20,
+          "w": 768,
+          "h": 56,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbarHit": true,
+        "canvasCount": 1
+      },
+      "final": {
+        "progress": {
+          "explode": 1,
+          "focus": 1,
+          "handoff": 1,
+          "calls": 32,
+          "triangles": 64988,
+          "screen": [
+            [
+              356.5,
+              197.74998462922917
+            ],
+            [
+              1356.5,
+              760.2500132348849
+            ]
+          ]
+        },
+        "overflow": 0,
+        "pins": 1,
+        "identity": {
+          "x": 252.33038330078125,
+          "y": 252.34500122070312,
+          "w": 503.0579833984375,
+          "h": 439.3100280761719,
+          "opacity": "0",
+          "inert": true
+        },
+        "stage": {
+          "x": 469.05120849609375,
+          "y": 74.39999389648438,
+          "w": 789.8975219726562,
+          "h": 851.199951171875,
+          "opacity": "1",
+          "inert": false
+        },
+        "project": {
+          "x": 356.5,
+          "y": 197.75,
+          "w": 1000,
+          "h": 562.5,
+          "opacity": "1",
+          "inert": false
+        },
+        "projectGroup": {
+          "x": 356.5,
+          "y": 161.75,
+          "w": 1000,
+          "h": 716.5,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbar": {
+          "x": 472.5,
+          "y": 20,
+          "w": 768,
+          "h": 56,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbarHit": true,
+        "canvasCount": 1
+      },
+      "alignmentErrorPx": 0.000015370770825029467
+    }
+  ],
+  "errors": [],
+  "alignmentErrorPx": 0.000015370770825029467,
+  "liveResize": [
+    {
+      "width": 1280,
+      "error": 0,
+      "metrics": {
+        "progress": {
+          "explode": 0,
+          "focus": 0,
+          "handoff": 0,
+          "calls": 38,
+          "triangles": 75392,
+          "screen": [
+            [
+              521.4852354172328,
+              476.26411910315977
+            ],
+            [
+              659.6921977564284,
+              576.4817721376132
+            ]
+          ]
+        },
+        "overflow": 0,
+        "pins": 1,
+        "identity": {
+          "x": 35.783050537109375,
+          "y": 252.34500122070312,
+          "w": 496.8401184082031,
+          "h": 439.3100280761719,
+          "opacity": "0",
+          "inert": true
+        },
+        "stage": {
+          "x": 249.916259765625,
+          "y": 74.39999389648438,
+          "w": 780.16748046875,
+          "h": 851.199951171875,
+          "opacity": "1",
+          "inert": false
+        },
+        "project": {
+          "x": 184.5,
+          "y": 227,
+          "w": 896,
+          "h": 504,
+          "opacity": "1",
+          "inert": false
+        },
+        "projectGroup": {
+          "x": 184.5,
+          "y": 191,
+          "w": 896,
+          "h": 658,
+          "opacity": "0",
+          "inert": true
+        },
+        "navbar": {
+          "x": 248.5,
+          "y": 20,
+          "w": 768,
+          "h": 56,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbarHit": true,
+        "canvasCount": 1
+      }
+    },
+    {
+      "width": 1440,
+      "error": 0.000030517578125,
+      "metrics": {
+        "progress": {
+          "explode": 0,
+          "focus": 0,
+          "handoff": 0,
+          "calls": 38,
+          "triangles": 75392,
+          "screen": [
+            [
+              600.9776082632826,
+              476.26411910315977
+            ],
+            [
+              739.1845502420506,
+              576.4817721376132
+            ]
+          ]
+        },
+        "overflow": 0,
+        "pins": 1,
+        "identity": {
+          "x": 108.33038330078125,
+          "y": 252.34500122070312,
+          "w": 503.0579833984375,
+          "h": 439.3100280761719,
+          "opacity": "0",
+          "inert": true
+        },
+        "stage": {
+          "x": 325.05120849609375,
+          "y": 74.39999389648438,
+          "w": 789.8975219726562,
+          "h": 851.199951171875,
+          "opacity": "1",
+          "inert": false
+        },
+        "project": {
+          "x": 212.5,
+          "y": 197.75,
+          "w": 1000,
+          "h": 562.5,
+          "opacity": "1",
+          "inert": false
+        },
+        "projectGroup": {
+          "x": 212.5,
+          "y": 161.75,
+          "w": 1000,
+          "h": 716.5,
+          "opacity": "0",
+          "inert": true
+        },
+        "navbar": {
+          "x": 328.5,
+          "y": 20,
+          "w": 768,
+          "h": 56,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbarHit": true,
+        "canvasCount": 1
+      }
+    },
+    {
+      "width": 1728,
+      "error": 0.000030517578125,
+      "metrics": {
+        "progress": {
+          "explode": 0,
+          "focus": 0,
+          "handoff": 0,
+          "calls": 38,
+          "triangles": 75392,
+          "screen": [
+            [
+              744.9776082632826,
+              476.26411910315977
+            ],
+            [
+              883.1845502420506,
+              576.4817721376132
+            ]
+          ]
+        },
+        "overflow": 0,
+        "pins": 1,
+        "identity": {
+          "x": 252.33038330078125,
+          "y": 252.34500122070312,
+          "w": 503.0579833984375,
+          "h": 439.3100280761719,
+          "opacity": "0",
+          "inert": true
+        },
+        "stage": {
+          "x": 469.05120849609375,
+          "y": 74.39999389648438,
+          "w": 789.8975219726562,
+          "h": 851.199951171875,
+          "opacity": "1",
+          "inert": false
+        },
+        "project": {
+          "x": 356.5,
+          "y": 197.75,
+          "w": 1000,
+          "h": 562.5,
+          "opacity": "1",
+          "inert": false
+        },
+        "projectGroup": {
+          "x": 356.5,
+          "y": 161.75,
+          "w": 1000,
+          "h": 716.5,
+          "opacity": "0",
+          "inert": true
+        },
+        "navbar": {
+          "x": 472.5,
+          "y": 20,
+          "w": 768,
+          "h": 56,
+          "opacity": "1",
+          "inert": false
+        },
+        "navbarHit": true,
+        "canvasCount": 1
+      }
+    }
+  ],
+  "reloadMiddle": {
+    "progress": {
+      "explode": 0,
+      "focus": 0,
+      "handoff": 0,
+      "calls": 39,
+      "triangles": 75404,
+      "screen": [
+        [
+          1005.5816554027048,
+          478.80727523139075
+        ],
+        [
+          1128.9807240949356,
+          568.2873277165033
+        ]
+      ]
+    },
+    "overflow": 0,
+    "pins": 1,
+    "identity": {
+      "x": 248.5,
+      "y": 277,
+      "w": 510.71875,
+      "h": 446,
+      "opacity": "1",
+      "inert": false
+    },
+    "stage": {
+      "x": 759.21875,
+      "y": 120,
+      "w": 705.265625,
+      "h": 760,
+      "opacity": "1",
+      "inert": false
+    },
+    "project": {
+      "x": 356.5,
+      "y": 197.75,
+      "w": 1000,
+      "h": 562.5,
+      "opacity": "1",
+      "inert": false
+    },
+    "projectGroup": {
+      "x": 356.5,
+      "y": 161.75,
+      "w": 1000,
+      "h": 716.5,
+      "opacity": "0",
+      "inert": true
+    },
+    "navbar": {
+      "x": 472.5,
+      "y": 20,
+      "w": 768,
+      "h": 56,
+      "opacity": "1",
+      "inert": false
+    },
+    "navbarHit": true,
+    "canvasCount": 1
+  },
+  "reloadTop": {
+    "progress": {
+      "explode": 0,
+      "focus": 0,
+      "handoff": 0,
+      "calls": 39,
+      "triangles": 75404,
+      "screen": [
+        [
+          1005.5816554027048,
+          478.80727523139075
+        ],
+        [
+          1128.9807240949356,
+          568.2873277165033
+        ]
+      ]
+    },
+    "overflow": 0,
+    "pins": 1,
+    "identity": {
+      "x": 248.5,
+      "y": 277,
+      "w": 510.71875,
+      "h": 446,
+      "opacity": "1",
+      "inert": false
+    },
+    "stage": {
+      "x": 759.21875,
+      "y": 120,
+      "w": 705.265625,
+      "h": 760,
+      "opacity": "1",
+      "inert": false
+    },
+    "project": {
+      "x": 356.5,
+      "y": 197.75,
+      "w": 1000,
+      "h": 562.5,
+      "opacity": "1",
+      "inert": false
+    },
+    "projectGroup": {
+      "x": 356.5,
+      "y": 161.75,
+      "w": 1000,
+      "h": 716.5,
+      "opacity": "0",
+      "inert": true
+    },
+    "navbar": {
+      "x": 472.5,
+      "y": 20,
+      "w": 768,
+      "h": 56,
+      "opacity": "1",
+      "inert": false
+    },
+    "navbarHit": true,
+    "canvasCount": 1
+  },
+  "reduced": {
+    "progress": null,
+    "overflow": 0,
+    "pins": 0,
+    "identity": {
+      "x": 248.5,
+      "y": 277,
+      "w": 510.71875,
+      "h": 446,
+      "opacity": "1",
+      "inert": false
+    },
+    "stage": {
+      "x": 759.21875,
+      "y": 120,
+      "w": 705.265625,
+      "h": 760,
+      "opacity": "1",
+      "inert": false
+    },
+    "project": {
+      "x": 356.5,
+      "y": 1100,
+      "w": 1000,
+      "h": 562.5,
+      "opacity": "1",
+      "inert": false
+    },
+    "projectGroup": {
+      "x": 0,
+      "y": 1000,
+      "w": 1713,
+      "h": 844.5,
+      "opacity": "1",
+      "inert": false
+    },
+    "navbar": {
+      "x": 472.5,
+      "y": 20,
+      "w": 768,
+      "h": 56,
+      "opacity": "1",
+      "inert": false
+    },
+    "navbarHit": true,
+    "canvasCount": 0
+  },
+  "mobile": {
+    "progress": null,
+    "overflow": 0,
+    "pins": 0,
+    "identity": {
+      "x": 24,
+      "y": 102.3125,
+      "w": 342,
+      "h": 338,
+      "opacity": "1",
+      "inert": false
+    },
+    "stage": {
+      "x": 24,
+      "y": 484.953125,
+      "w": 342,
+      "h": 320.71875,
+      "opacity": "1",
+      "inert": false
+    },
+    "project": {
+      "x": 24,
+      "y": 944,
+      "w": 342,
+      "h": 192.375,
+      "opacity": "1",
+      "inert": false
+    },
+    "projectGroup": {
+      "x": 0,
+      "y": 844,
+      "w": 390,
+      "h": 594.375,
+      "opacity": "1",
+      "inert": false
+    },
+    "navbar": {
+      "x": 24,
+      "y": 20,
+      "w": 342,
+      "h": 56,
+      "opacity": "1",
+      "inert": false
+    },
+    "navbarHit": true,
+    "canvasCount": 0
+  }
+}

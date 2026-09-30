@@ -1,0 +1,411 @@
+{
+  "asset": "NODE_7388",
+  "blender": "5.1.1",
+  "coordinateSystem": "glTF +Y up, +Z WEB; Blender +Z up, -Y WEB",
+  "designUnitMeters": 1.0,
+  "materials": [
+    "MAT_ACRYLIC",
+    "MAT_CHROME",
+    "MAT_GRAPHITE",
+    "MAT_PCB",
+    "MAT_CIRCUIT",
+    "MAT_SMOKED_GLASS"
+  ],
+  "assemblies": [
+    {
+      "name": "FACE_WEB",
+      "parent": "NODE_7388",
+      "explodeAxis": [
+        0,
+        0,
+        1
+      ],
+      "pivotBlender": [
+        0.0,
+        -1.190000057220459,
+        8.98425085438248e-08
+      ]
+    },
+    {
+      "name": "FACE_API",
+      "parent": "NODE_7388",
+      "explodeAxis": [
+        0,
+        0,
+        -1
+      ],
+      "pivotBlender": [
+        0.0,
+        1.190000057220459,
+        -8.98425085438248e-08
+      ]
+    },
+    {
+      "name": "FACE_AI",
+      "parent": "NODE_7388",
+      "explodeAxis": [
+        1,
+        0,
+        0
+      ],
+      "pivotBlender": [
+        1.190000057220459,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "FACE_DATA",
+      "parent": "NODE_7388",
+      "explodeAxis": [
+        -1,
+        0,
+        0
+      ],
+      "pivotBlender": [
+        -1.190000057220459,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "FACE_SYSTEM",
+      "parent": "NODE_7388",
+      "explodeAxis": [
+        0,
+        1,
+        0
+      ],
+      "pivotBlender": [
+        0.0,
+        8.98425085438248e-08,
+        1.190000057220459
+      ]
+    },
+    {
+      "name": "FACE_INFRA",
+      "parent": "NODE_7388",
+      "explodeAxis": [
+        0,
+        -1,
+        0
+      ],
+      "pivotBlender": [
+        0.0,
+        -8.98425085438248e-08,
+        -1.190000057220459
+      ]
+    },
+    {
+      "name": "SYS_CORE",
+      "parent": "NODE_7388",
+      "explodeAxis": [
+        0,
+        0,
+        0
+      ],
+      "pivotBlender": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "INTERNAL_FRAME",
+      "parent": "NODE_7388",
+      "explodeAxis": [
+        0,
+        0,
+        0
+      ],
+      "pivotBlender": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "FACE_WEB__ACRYLIC",
+      "parent": "FACE_WEB",
+      "triangles": 1084,
+      "material": "MAT_ACRYLIC",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_WEB__CHROME",
+      "parent": "FACE_WEB",
+      "triangles": 4100,
+      "material": "MAT_CHROME",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_WEB__GRAPHITE",
+      "parent": "FACE_WEB",
+      "triangles": 3016,
+      "material": "MAT_GRAPHITE",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_WEB__PCB",
+      "parent": "FACE_WEB",
+      "triangles": 864,
+      "material": "MAT_PCB",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_WEB__CIRCUIT",
+      "parent": "FACE_WEB",
+      "triangles": 752,
+      "material": "MAT_CIRCUIT",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_WEB__SMOKED_GLASS",
+      "parent": "FACE_WEB",
+      "triangles": 588,
+      "material": "MAT_SMOKED_GLASS",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_API__ACRYLIC",
+      "parent": "FACE_API",
+      "triangles": 1084,
+      "material": "MAT_ACRYLIC",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_API__CHROME",
+      "parent": "FACE_API",
+      "triangles": 3988,
+      "material": "MAT_CHROME",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_API__GRAPHITE",
+      "parent": "FACE_API",
+      "triangles": 3008,
+      "material": "MAT_GRAPHITE",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_API__PCB",
+      "parent": "FACE_API",
+      "triangles": 864,
+      "material": "MAT_PCB",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_API__CIRCUIT",
+      "parent": "FACE_API",
+      "triangles": 752,
+      "material": "MAT_CIRCUIT",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_AI__ACRYLIC",
+      "parent": "FACE_AI",
+      "triangles": 1084,
+      "material": "MAT_ACRYLIC",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_AI__CHROME",
+      "parent": "FACE_AI",
+      "triangles": 4436,
+      "material": "MAT_CHROME",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_AI__GRAPHITE",
+      "parent": "FACE_AI",
+      "triangles": 3008,
+      "material": "MAT_GRAPHITE",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_AI__PCB",
+      "parent": "FACE_AI",
+      "triangles": 864,
+      "material": "MAT_PCB",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_AI__CIRCUIT",
+      "parent": "FACE_AI",
+      "triangles": 752,
+      "material": "MAT_CIRCUIT",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_DATA__ACRYLIC",
+      "parent": "FACE_DATA",
+      "triangles": 1084,
+      "material": "MAT_ACRYLIC",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_DATA__CHROME",
+      "parent": "FACE_DATA",
+      "triangles": 3236,
+      "material": "MAT_CHROME",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_DATA__GRAPHITE",
+      "parent": "FACE_DATA",
+      "triangles": 2580,
+      "material": "MAT_GRAPHITE",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_DATA__PCB",
+      "parent": "FACE_DATA",
+      "triangles": 864,
+      "material": "MAT_PCB",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_DATA__CIRCUIT",
+      "parent": "FACE_DATA",
+      "triangles": 1316,
+      "material": "MAT_CIRCUIT",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_SYSTEM__ACRYLIC",
+      "parent": "FACE_SYSTEM",
+      "triangles": 1084,
+      "material": "MAT_ACRYLIC",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_SYSTEM__CHROME",
+      "parent": "FACE_SYSTEM",
+      "triangles": 3536,
+      "material": "MAT_CHROME",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_SYSTEM__GRAPHITE",
+      "parent": "FACE_SYSTEM",
+      "triangles": 2580,
+      "material": "MAT_GRAPHITE",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_SYSTEM__PCB",
+      "parent": "FACE_SYSTEM",
+      "triangles": 864,
+      "material": "MAT_PCB",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_SYSTEM__CIRCUIT",
+      "parent": "FACE_SYSTEM",
+      "triangles": 752,
+      "material": "MAT_CIRCUIT",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_INFRA__ACRYLIC",
+      "parent": "FACE_INFRA",
+      "triangles": 1084,
+      "material": "MAT_ACRYLIC",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_INFRA__CHROME",
+      "parent": "FACE_INFRA",
+      "triangles": 4364,
+      "material": "MAT_CHROME",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_INFRA__GRAPHITE",
+      "parent": "FACE_INFRA",
+      "triangles": 2152,
+      "material": "MAT_GRAPHITE",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_INFRA__PCB",
+      "parent": "FACE_INFRA",
+      "triangles": 1292,
+      "material": "MAT_PCB",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "FACE_INFRA__CIRCUIT",
+      "parent": "FACE_INFRA",
+      "triangles": 752,
+      "material": "MAT_CIRCUIT",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "SYS_CORE__PCB",
+      "parent": "SYS_CORE",
+      "triangles": 764,
+      "material": "MAT_PCB",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "SYS_CORE__GRAPHITE",
+      "parent": "SYS_CORE",
+      "triangles": 1860,
+      "material": "MAT_GRAPHITE",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "SYS_CORE__CHROME",
+      "parent": "SYS_CORE",
+      "triangles": 8112,
+      "material": "MAT_CHROME",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "SYS_CORE__CIRCUIT",
+      "parent": "SYS_CORE",
+      "triangles": 864,
+      "material": "MAT_CIRCUIT",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "INTERNAL_FRAME__CHROME",
+      "parent": "INTERNAL_FRAME",
+      "triangles": 2312,
+      "material": "MAT_CHROME",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "INTERNAL_FRAME__GRAPHITE",
+      "parent": "INTERNAL_FRAME",
+      "triangles": 2568,
+      "material": "MAT_GRAPHITE",
+      "boundaryEdges": 0
+    },
+    {
+      "name": "INTERNAL_FRAME__CIRCUIT",
+      "parent": "INTERNAL_FRAME",
+      "triangles": 1128,
+      "material": "MAT_CIRCUIT",
+      "boundaryEdges": 0
+    }
+  ],
+  "triangleCount": 75392,
+  "anchor": {
+    "path": "NODE_7388/FACE_WEB/WEB_SCREEN_ANCHOR",
+    "width": 1.6,
+    "height": 0.9,
+    "normal": "+Z local"
+  },
+  "compromises": [
+    "Browser acrylic is tuned independently; no claim of physically correct multilayer refraction.",
+    "Fixed docking buses do not telescope in this asset-only preview.",
+    "WEB_SCREEN_ANCHOR is nested under FACE_WEB (not duplicated at root)."
+  ],
+  "meshCount": 38,
+  "materialDrawCalls": 38,
+  "glbBytes": 1733276
+}

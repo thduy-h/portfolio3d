@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#F4F7FA"/>
+  <g stroke="#315BFF" opacity=".08"><path d="M0 225h1600M0 450h1600M0 675h1600M400 0v900M800 0v900M1200 0v900"/></g>
+  <path d="M64 100V64h36M1500 64h36v36M64 800v36h36M1500 836h36v-36" fill="none" stroke="#00C8FF" stroke-width="2"/>
+  <text x="800" y="410" text-anchor="middle" font-family="sans-serif" font-size="80" letter-spacing="-3" fill="#0A0D14">VNNETZERO</text>
+  <text x="800" y="482" text-anchor="middle" font-family="monospace" font-size="19" letter-spacing="4" fill="#52606F">PROJECT SCREENSHOT / PLACEHOLDER</text>
+  <text x="800" y="536" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#52606F">Actual project capture pending</text>
+</svg>

@@ -1,0 +1,114 @@
+{
+  "states": {
+    "assembled": {
+      "state": "ASSEMBLED / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    "exploded": {
+      "state": "EXPLODED / 1.00 / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    "web": {
+      "state": "WEB FOCUS / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    }
+  },
+  "errors": [],
+  "reassembled": {
+    "state": "ASSEMBLED / +Y UP",
+    "triangles": 75392,
+    "calls": 38,
+    "overflow": 0,
+    "pins": 0
+  },
+  "widths": [
+    {
+      "width": 1280,
+      "state": "ASSEMBLED / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1280,
+      "state": "EXPLODED / 1.00 / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1280,
+      "state": "WEB FOCUS / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1440,
+      "state": "ASSEMBLED / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1440,
+      "state": "EXPLODED / 1.00 / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1440,
+      "state": "WEB FOCUS / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1728,
+      "state": "ASSEMBLED / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1728,
+      "state": "EXPLODED / 1.00 / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1728,
+      "state": "WEB FOCUS / +Y UP",
+      "triangles": 75392,
+      "calls": 38,
+      "overflow": 0,
+      "pins": 0
+    }
+  ],
+  "reload": {
+    "state": "ASSEMBLED / +Y UP",
+    "triangles": 75392,
+    "calls": 38,
+    "overflow": 0,
+    "pins": 0
+  }
+}

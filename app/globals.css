@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.node-story[data-enhanced] {
+  height: 100vh;
+}
+.node-story[data-enhanced] .featured-project {
+  position: absolute;
+  z-index: 20;
+  left: 50%;
+  top: 52%;
+  width: min(70vw, 1000px, calc((100vh - 270px) * 1.7778));
+  padding: 0;
+  transform: translate(-50%, -50%);
+}
+
+@media (max-width: 1023px), (prefers-reduced-motion: reduce) {
+  .hero-visual {
+    min-height: 100vh;
+    height: auto;
+  }
+  .hero-visual > div {
+    min-height: 100vh;
+  }
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    background: #f4f7fa;
+  }
+
+  body {
+    min-height: 100vh;
+    margin: 0;
+    background: #f4f7fa;
+    color: #0f172a;
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    background: rgba(255, 255, 255, 0.4);
+    -webkit-backdrop-filter: blur(24px);
+    backdrop-filter: blur(24px);
+  }
+
+  .dark-glass {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: rgba(10, 13, 20, 0.7);
+    color: #ffffff;
+    -webkit-backdrop-filter: blur(24px);
+    backdrop-filter: blur(24px);
+  }
+}

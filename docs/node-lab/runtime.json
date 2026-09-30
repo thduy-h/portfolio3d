@@ -1,0 +1,80 @@
+{
+  "states": {
+    "assembled": {
+      "state": "ASSEMBLED — source geometry",
+      "triangles": 238600,
+      "calls": 185,
+      "overflow": 0,
+      "pins": 0
+    },
+    "exploded": {
+      "state": "AXIS TEST — 1.00",
+      "triangles": 238600,
+      "calls": 185,
+      "overflow": 0,
+      "pins": 0
+    },
+    "web": {
+      "state": "WEB FOCUS — details only",
+      "triangles": 28408,
+      "calls": 28,
+      "overflow": 0,
+      "pins": 0
+    },
+    "structure": {
+      "state": "ASSEMBLED — source geometry",
+      "triangles": 68152,
+      "calls": 17,
+      "overflow": 0,
+      "pins": 0
+    },
+    "inside": {
+      "state": "ASSEMBLED — source geometry",
+      "triangles": 66936,
+      "calls": 13,
+      "overflow": 0,
+      "pins": 0
+    }
+  },
+  "errors": [],
+  "reassembled": {
+    "state": "ASSEMBLED — source geometry",
+    "triangles": 238600,
+    "calls": 185,
+    "overflow": 0,
+    "pins": 0
+  },
+  "widths": [
+    {
+      "width": 1280,
+      "state": "ASSEMBLED — source geometry",
+      "triangles": 238600,
+      "calls": 185,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1440,
+      "state": "ASSEMBLED — source geometry",
+      "triangles": 238600,
+      "calls": 185,
+      "overflow": 0,
+      "pins": 0
+    },
+    {
+      "width": 1728,
+      "state": "ASSEMBLED — source geometry",
+      "triangles": 238600,
+      "calls": 185,
+      "overflow": 0,
+      "pins": 0
+    }
+  ],
+  "reload": {
+    "state": "ASSEMBLED — source geometry",
+    "triangles": 238600,
+    "calls": 185,
+    "overflow": 0,
+    "pins": 0
+  }
+}

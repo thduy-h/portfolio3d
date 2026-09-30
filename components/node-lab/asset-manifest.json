@@ -1,0 +1,767 @@
+{
+  "bounds": {
+    "min": [
+      -0.14250776,
+      -0.04250777,
+      -0.18250776
+    ],
+    "max": [
+      0.14250776,
+      0.24250776,
+      0.10250776
+    ],
+    "size": [
+      0.28501552,
+      0.28501552,
+      0.28501552
+    ]
+  },
+  "center": [
+    0,
+    0.1,
+    -0.04
+  ],
+  "edge": 0.28501552421564913,
+  "meshes": [
+    {
+      "name": "Part5_Default_0",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part5_Default_0_1",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part4_Default_0",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part1_Default_0",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part3_Default_0",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_1",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_2",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_3",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_4",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_5",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_6",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_7",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_8",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_9",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_10",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_11",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_12",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_13",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_14",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_2",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_3",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_4",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part5_Default_0_5",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part5_Default_0_6",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part5_Default_0_7",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part4_Default_0_1",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part1_Default_0_1",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part3_Default_0_15",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_16",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_17",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_18",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_19",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_20",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_21",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_22",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_23",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_24",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_25",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_26",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_27",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_28",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_29",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_8",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_9",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_10",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part5_Default_0_11",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part5_Default_0_12",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part5_Default_0_13",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part4_Default_0_2",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part1_Default_0_2",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part3_Default_0_30",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_31",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_32",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_33",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_34",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_35",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_36",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_37",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_38",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_39",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_40",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_41",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_42",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_43",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_44",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_14",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_15",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_16",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part5_Default_0_17",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part5_Default_0_18",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part5_Default_0_19",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part4_Default_0_3",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part1_Default_0_3",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part3_Default_0_45",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_46",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_47",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_48",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_49",
+      "candidateAssembly": "FACE_SYSTEM"
+    },
+    {
+      "name": "Part3_Default_0_50",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_51",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_52",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_53",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_54",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_55",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_56",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_57",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_58",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_59",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_20",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_21",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_22",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part5_Default_0_23",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part5_Default_0_24",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part5_Default_0_25",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part4_Default_0_4",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part1_Default_0_4",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part3_Default_0_60",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_61",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_62",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_63",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_64",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_65",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_66",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_67",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_68",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_69",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_70",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_71",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_72",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_73",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_74",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_26",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_27",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_28",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part5_Default_0_29",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part5_Default_0_30",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part5_Default_0_31",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part4_Default_0_5",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part1_Default_0_5",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part3_Default_0_75",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_76",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_77",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_78",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_79",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_80",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_81",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_82",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_83",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_84",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_85",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_86",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_87",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_88",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part3_Default_0_89",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_32",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_33",
+      "candidateAssembly": "FACE_AI"
+    },
+    {
+      "name": "Part5_Default_0_34",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part5_Default_0_35",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part5_Default_0_36",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part5_Default_0_37",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part4_Default_0_6",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part1_Default_0_6",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part3_Default_0_90",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_91",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_92",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_93",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_94",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_95",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_96",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_97",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_98",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_99",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part3_Default_0_100",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_101",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_102",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_103",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_104",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_38",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_39",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_40",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part5_Default_0_41",
+      "candidateAssembly": "FACE_WEB"
+    },
+    {
+      "name": "Part5_Default_0_42",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part5_Default_0_43",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part4_Default_0_7",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part1_Default_0_7",
+      "candidateAssembly": "UNASSIGNED"
+    },
+    {
+      "name": "Part3_Default_0_105",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_106",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_107",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_108",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_109",
+      "candidateAssembly": "FACE_INFRA"
+    },
+    {
+      "name": "Part3_Default_0_110",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_111",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_112",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_113",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_114",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part3_Default_0_115",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_116",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_117",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_118",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part3_Default_0_119",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_44",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_45",
+      "candidateAssembly": "FACE_DATA"
+    },
+    {
+      "name": "Part5_Default_0_46",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part5_Default_0_47",
+      "candidateAssembly": "FACE_API"
+    },
+    {
+      "name": "Part2_Default_0",
+      "candidateAssembly": "UNASSIGNED"
+    }
+  ]
+}
