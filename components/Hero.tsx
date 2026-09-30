@@ -1,6 +1,7 @@
 import { HeroMotion } from "./hero/HeroMotion";
 import { NodeStage } from "./hero/NodeStage";
 import { FeaturedProject } from "./projects/FeaturedProject";
+import { social } from "@/data/social";
 
 export function Hero() {
   return (
@@ -33,12 +34,10 @@ export function Hero() {
             >
               Explore Work
             </a>
-            <a
-              href="https://github.com"
+            {social.githubUrl ? <a
+              href={social.githubUrl}
               className="rounded-full border border-slate-300 bg-transparent px-6 py-3 font-body text-sm font-medium text-graphite transition-colors hover:border-slate-400 hover:bg-white/50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-cobalt"
-            >
-              GitHub
-            </a>
+            >GitHub</a> : <span aria-label="GitHub link pending" className="rounded-full border border-slate-300 bg-transparent px-6 py-3 font-body text-sm font-medium text-graphite">GitHub</span>}
           </div>
         </div>
 

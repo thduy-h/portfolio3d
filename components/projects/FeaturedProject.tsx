@@ -14,7 +14,7 @@ export function FeaturedProject() {
           01 / {project.title}
         </h2>
         <span className="font-mono text-[10px] tracking-widest text-slate-500">
-          LIVE SYSTEM / PREVIEW
+          PROJECT / PREVIEW
         </span>
       </header>
       <div
